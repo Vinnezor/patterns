@@ -1,4 +1,4 @@
-package ru.geekbrains.PublisherSubscriber.observers;
+package ru.geekbrains.PublisherSubscriber;
 
 public class ConsoleObserver implements Observer {
     @Override

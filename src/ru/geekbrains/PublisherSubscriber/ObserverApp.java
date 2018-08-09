@@ -1,8 +1,5 @@
 package ru.geekbrains.PublisherSubscriber;
 
-import ru.geekbrains.PublisherSubscriber.observers.ConsoleObserver;
-import ru.geekbrains.PublisherSubscriber.observers.FileObserver;
-
 public class ObserverApp {
 
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package ru.geekbrains.AbstractFactory.en;
+package ru.geekbrains.AbstractFactory;
 
 import ru.geekbrains.AbstractFactory.Touchpad;
 

@@ -1,8 +1,5 @@
 package ru.geekbrains.AbstractFactory;
 
-import ru.geekbrains.AbstractFactory.factories.EnDeviceFactory;
-import ru.geekbrains.AbstractFactory.factories.RuDeviceFactory;
-
 public class AbstractFactoryApp {
 
     public static void main(String[] args) {

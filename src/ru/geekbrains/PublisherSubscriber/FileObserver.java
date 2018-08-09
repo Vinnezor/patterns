@@ -1,4 +1,4 @@
-package ru.geekbrains.PublisherSubscriber.observers;
+package ru.geekbrains.PublisherSubscriber;
 
 import java.io.File;
 import java.io.IOException;

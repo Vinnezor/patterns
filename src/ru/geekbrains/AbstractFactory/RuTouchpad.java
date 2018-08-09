@@ -1,6 +1,5 @@
-package ru.geekbrains.AbstractFactory.ru;
+package ru.geekbrains.AbstractFactory;
 
-import ru.geekbrains.AbstractFactory.Touchpad;
 
 public class RuTouchpad implements Touchpad {
     @Override
