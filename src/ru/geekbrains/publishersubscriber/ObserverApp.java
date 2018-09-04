@@ -1,4 +1,4 @@
-package ru.geekbrains.PublisherSubscriber;
+package ru.geekbrains.publishersubscriber;
 
 public class ObserverApp {
 

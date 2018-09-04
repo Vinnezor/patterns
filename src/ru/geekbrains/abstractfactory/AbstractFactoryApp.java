@@ -1,4 +1,4 @@
-package ru.geekbrains.AbstractFactory;
+package ru.geekbrains.abstractfactory;
 
 public class AbstractFactoryApp {
 

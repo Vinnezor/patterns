@@ -1,6 +1,4 @@
-package ru.geekbrains.AbstractFactory;
-
-import ru.geekbrains.AbstractFactory.Touchpad;
+package ru.geekbrains.abstractfactory;
 
 public class EnTouchpad implements Touchpad {
 

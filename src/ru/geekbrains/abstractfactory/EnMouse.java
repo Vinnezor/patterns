@@ -1,6 +1,4 @@
-package ru.geekbrains.AbstractFactory;
-
-import ru.geekbrains.AbstractFactory.Mouse;
+package ru.geekbrains.abstractfactory;
 
 public class EnMouse implements Mouse {
 

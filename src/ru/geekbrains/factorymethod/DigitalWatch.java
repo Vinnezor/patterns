@@ -1,4 +1,4 @@
-package ru.geekbrains.FactoryMethod;
+package ru.geekbrains.factorymethod;
 
 import java.util.Date;
 

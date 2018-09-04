@@ -1,4 +1,4 @@
-package ru.geekbrains.PublisherSubscriber;
+package ru.geekbrains.publishersubscriber;
 
 import java.util.ArrayList;
 import java.util.List;

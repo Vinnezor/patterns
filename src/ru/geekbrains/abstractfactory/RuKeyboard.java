@@ -1,6 +1,4 @@
-package ru.geekbrains.AbstractFactory;
-
-import ru.geekbrains.AbstractFactory.Keyboard;
+package ru.geekbrains.abstractfactory;
 
 public class RuKeyboard implements Keyboard {
     @Override

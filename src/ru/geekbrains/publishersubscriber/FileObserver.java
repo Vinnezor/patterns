@@ -1,4 +1,4 @@
-package ru.geekbrains.PublisherSubscriber;
+package ru.geekbrains.publishersubscriber;
 
 import java.io.File;
 import java.io.IOException;
